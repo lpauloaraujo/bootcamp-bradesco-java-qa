@@ -1,7 +1,3 @@
-import sintaxebasica.Age;
-
 void main() {
-    Age ageActivity = new Age();
-    ageActivity.ageDifference();
-    ageActivity.getUserAge();
+    //Try the coding exercise here.
 }
